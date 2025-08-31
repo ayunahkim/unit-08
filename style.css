@@ -101,7 +101,7 @@ ul{
     padding: 0px 20px 20px 20px;
     border:1px solid blue;
     margin:10px;
-    height:690px;
+    height:100%;
 }
 
 .row:after{
